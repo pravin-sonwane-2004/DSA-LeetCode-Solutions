@@ -12,6 +12,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pravin-Sonwane-2004/DSA-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0283-move-zeroes](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
