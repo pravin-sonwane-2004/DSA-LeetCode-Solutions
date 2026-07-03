@@ -38,5 +38,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0283-move-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
