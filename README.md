@@ -44,4 +44,20 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0061-rotate-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
