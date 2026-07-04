@@ -12,6 +12,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pravin-Sonwane-2004/DSA-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0283-move-zeroes](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
