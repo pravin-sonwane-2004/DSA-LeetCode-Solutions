@@ -65,4 +65,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0039-combination-sum) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
