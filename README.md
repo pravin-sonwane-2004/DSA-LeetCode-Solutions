@@ -23,6 +23,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -30,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0139-word-break](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0139-word-break) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1592-rearrange-spaces-between-words](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1592-rearrange-spaces-between-words) |
@@ -73,6 +75,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
