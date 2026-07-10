@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Pravin-Sonwane-2004/DSA-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0139-word-break) |
 | [0283-move-zeroes](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -80,6 +81,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
