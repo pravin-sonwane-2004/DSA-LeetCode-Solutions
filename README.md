@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -119,6 +121,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
 |  |
