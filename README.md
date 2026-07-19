@@ -39,6 +39,7 @@
 | [0006-zigzag-conversion](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0139-word-break](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0139-word-break) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1592-rearrange-spaces-between-words](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1592-rearrange-spaces-between-words) |
 ## Sliding Window
@@ -127,4 +128,16 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
