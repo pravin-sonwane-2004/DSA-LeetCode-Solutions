@@ -18,6 +18,7 @@
 | [0139-word-break](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0139-word-break) |
 | [0283-move-zeroes](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1260-shift-2d-grid](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [1260-shift-2d-grid](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
