@@ -43,6 +43,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1592-rearrange-spaces-between-words](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1592-rearrange-spaces-between-words) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
