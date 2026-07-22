@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pravin-Sonwane-2004/DSA-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0039-combination-sum) |
@@ -56,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Linked List
@@ -116,6 +118,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Enumeration
