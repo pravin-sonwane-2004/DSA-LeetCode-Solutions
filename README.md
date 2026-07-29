@@ -15,6 +15,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Pravin-Sonwane-2004/DSA-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0139-word-break) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0047-permutations-ii) |
 ## Math
 |  |
