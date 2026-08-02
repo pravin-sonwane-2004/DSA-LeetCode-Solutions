@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -180,6 +181,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Heap (Priority Queue)
 |  |
