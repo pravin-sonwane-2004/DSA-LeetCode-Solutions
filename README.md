@@ -49,6 +49,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0139-word-break](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0139-word-break) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -182,6 +184,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
 |  |
