@@ -20,6 +20,7 @@
 | [0047-permutations-ii](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0139-word-break) |
+| [0164-maximum-gap](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -149,6 +150,7 @@
 | [0015-3sum](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0164-maximum-gap](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -206,4 +208,16 @@
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
