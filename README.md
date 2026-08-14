@@ -48,6 +48,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -61,6 +62,7 @@
 | [1592-rearrange-spaces-between-words](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1592-rearrange-spaces-between-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -68,6 +70,7 @@
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
 | ------- |
