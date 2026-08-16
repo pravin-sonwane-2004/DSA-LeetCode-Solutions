@@ -28,6 +28,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -119,6 +120,7 @@
 | [0062-unique-paths](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -187,6 +189,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
@@ -211,6 +214,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bucket Sort
@@ -225,4 +229,20 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
