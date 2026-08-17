@@ -88,6 +88,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0061-rotate-list) |
 ## Depth-First Search
 |  |
@@ -149,6 +150,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 ## Sorting
 |  |
@@ -210,6 +212,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -245,4 +248,12 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
