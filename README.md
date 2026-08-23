@@ -63,6 +63,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1592-rearrange-spaces-between-words](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1592-rearrange-spaces-between-words) |
+| [1927-sum-game](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -122,6 +123,7 @@
 | [0043-multiply-strings](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1927-sum-game](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -194,6 +196,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -242,6 +245,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
