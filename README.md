@@ -96,10 +96,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -263,4 +265,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/pravin-sonwane-2004/DSA-LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
